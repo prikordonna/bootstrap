@@ -1,0 +1,27 @@
+body {
+    font-weight: 500;
+}
+
+.row > div {
+    background-color: rgb(255, 219, 143);
+    text-align: center;
+    padding: 5px;
+
+}
+
+.row {
+    margin: 10px;
+}
+
+.hero, .body, .footer, .header {
+    border: 1px solid rgb(54, 53, 53);
+    padding: 10px;
+    margin: 5px;
+}
+
+.body > div {
+    height: 400px;
+}
+.hero > div {
+    height: 200px;
+}
